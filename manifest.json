@@ -12,7 +12,7 @@
             "name": "Learn About Us",
             "short_name": "About",
             "description": "lorem ipsum",
-            "url": "./abour.html",
+            "url": "./about.html",
             "icons": [
                 {
                     "src": "./assets/images/SKILLHUB-192-192.",
