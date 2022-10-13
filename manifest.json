@@ -15,7 +15,7 @@
             "url": "./about.html",
             "icons": [
                 {
-                    "src": "./assets/images/SKILLHUB-192-192.",
+                    "src": "./assets/images/SKILLHUB-192-192.png",
                     "type": "image/png",
                     "sizes": "192x192"
                 }
@@ -57,7 +57,7 @@
             "sizes": "144x144"
         },
         {
-            "src": "./assets/images/SKILLHUB-192-png192.png",
+            "src": "./assets/images/SKILLHUB-192-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
