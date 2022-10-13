@@ -3,7 +3,7 @@
     "short_name":"PORTFOLIO",
     "description":"Abrar portfolio. having experience as frontend developer",
     "orientation":"portrait",
-    "start_url":"/PORTFOLIO",
+    "start_url":"/portfolio",
     "background_color":"#F00",
     "theme_color":"#0FF",
     "display":"standalone",
